@@ -75,4 +75,4 @@ Node.js es un entorno de ejecución de JavaScript del lado del servidor. Permite
 
 ## Recursos adicionales
 
-Para acceder al curso completo y seguir paso a paso la creación del proyecto, consulta el siguiente enlace: [MongoDB - The Complete Developer's Guide 2024](https://www.udemy.com/courses/search/?src=ukw&q=MongoDB+-+The+Complete+Developer%27s+Guide+2024)
+Para acceder al curso completo y seguir paso a paso la creación del proyecto, consulta el siguiente enlace: [MongoDB - The Complete Developer's Guide 2024](https://www.udemy.com/courses/search/?src=ukw&q=MongoDB+-+The+Complete+Developer%27s+Guide+2024) 
